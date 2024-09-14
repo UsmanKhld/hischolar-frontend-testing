@@ -1,0 +1,36 @@
+{
+  "scholarships": [
+    {
+      "name": "A Balanced Life Scholarship",
+      "organization": "Life Reimagined Scholarships",
+      "purposes": "Deciding how to spend your time and effort may not always be easy, but it's what makes living so fun. We all have virtually infinite paths we can walk, and the gift of life is to slowly unearth a path that makes us tick. To encourage people to think more deeply about what they want out of life, this scholarship will support one person from any background or educational level who is committed to making the most of their time on this spinning rock. ",
+      "level of study": " Associate Degree Bachelor's Degree Graduate Degree High SchoolProfessional Development Vocational",
+      "award amount": "$1000",
+      "deadline": "September"
+    },
+    {
+      "name": "Paul and Daisy Soros Fellowships for New Americans",
+      "organization": "Life Reimagined Scholarships",
+      "purposes": "The Paul & Daisy Soros Fellowships for New Americans program recognizes the children of immigrants to the U.S. who are seeking a graduate degree on a full-time basis in the U.S. Students who are aged 30 or younger and are U.S citizens, permanent residents, refugees, asylees, or have DACA status are encouraged to apply. Recipients of this award should demonstrate drive, creativity, and a commitment to the values expressed in the U.S. Constitution and the Bill of Rights.",
+      "level of study": " Associate Degree Bachelor's Degree Graduate Degree High SchoolProfessional Development Vocational",
+      "award amount": "$90000",
+      "deadline": "October"
+    },
+    {
+      "name": "Example 2",
+      "organization": "Life Reimagined Scholarships",
+      "purposes": "Deciding how to spend your time and effort may not always be easy, but it's what makes living so fun. We all have virtually infinite paths we can walk, and the gift of life is to slowly unearth a path that makes us tick. To encourage people to think more deeply about what they want out of life, this scholarship will support one person from any background or educational level who is committed to making the most of their time on this spinning rock. ",
+      "level of study": " Associate Degree Bachelor's Degree Graduate Degree High SchoolProfessional Development Vocational",
+      "award amount": "$600",
+      "deadline": "September"
+    },
+    {
+      "name": "Ending last scholarship",
+      "organization": "Life Reimagined Scholarships",
+      "purposes": "Deciding how to spend your time and effort may not always be easy, but it's what makes living so fun. We all have virtually infinite paths we can walk, and the gift of life is to slowly unearth a path that makes us tick. To encourage people to think more deeply about what they want out of life, this scholarship will support one person from any background or educational level who is committed to making the most of their time on this spinning rock. ",
+      "level of study": " Associate Degree Bachelor's Degree Graduate Degree High SchoolProfessional Development Vocational",
+      "award amount": "$600",
+      "deadline": "September"
+    }
+  ]
+}
